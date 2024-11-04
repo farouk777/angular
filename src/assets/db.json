@@ -1,0 +1,26 @@
+{
+    "members": [
+      {
+        "id": 1,
+        "name": "vini",
+        "type": "Brasil",
+        "cv": "Real Madrid",
+        "createDate": "12/12/2010"
+      },
+      {
+        "id": 2,
+        "name": "Rodri",
+        "type": "spain",
+        "cv": "City",
+        "createDate": "12/12/2015"
+      },
+      {
+        "id": 3,
+        "name": "Bellignham",
+        "type": "England",
+        "cv": "BVB",
+        "createDate": "12/12/2020"
+      }
+    ]
+  }
+  
